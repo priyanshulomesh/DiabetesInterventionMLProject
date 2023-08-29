@@ -34,5 +34,6 @@ The heart of this project is the Streamlit web application, which provides a use
 ## Contributing
 
 Contributions to this project are welcome and encouraged! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please discuss your ideas in an issue before implementation.
+
 ---
 Feel free to explore the project, experiment with the Streamlit app, and contribute to its development. If you have any questions or feedback, don't hesitate to get in touch!
