@@ -1,5 +1,6 @@
 # Diabetes Prediction Machine Learning Project
-Welcome to the Diabetes Prediction Machine Learning project repository! This project focuses on predicting the likelihood of diabetes in individuals based on various health parameters. The prediction model utilizes machine learning techniques and is presented through a user-friendly interface created with Streamlit.
+
+Welcome to the Diabetes Prediction Machine Learning project repository. This project focuses on predicting the likelihood of diabetes in individuals based on various health parameters. The prediction model utilizes machine learning techniques and is presented through a user-friendly interface created with Streamlit.
 
 ## Table of Contents
 
@@ -21,6 +22,7 @@ Diabetes is a prevalent chronic disease that affects millions of people worldwid
 3. The app should open in your default web browser.
 
 ## DataSet
+
 It contains information on various health parameters such as pregnancies, blood glucose level, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age.
 
 ## Machine Learning Model
@@ -36,4 +38,6 @@ The heart of this project is the Streamlit web application, which provides a use
 Contributions to this project are welcome and encouraged! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please discuss your ideas in an issue before implementation.
 
 ---
+
 Feel free to explore the project, experiment with the Streamlit app, and contribute to its development. If you have any questions or feedback, don't hesitate to get in touch!
+();
